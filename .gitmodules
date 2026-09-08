@@ -1,0 +1,24 @@
+[submodule "math-stats"]
+	path = math-stats
+	url = https://github.com/EdsonMorroNogueira/math-stats.git
+[submodule "coding"]
+	path = coding
+	url = https://github.com/EdsonMorroNogueira/coding.git
+[submodule "eda"]
+	path = eda
+	url = https://github.com/EdsonMorroNogueira/eda.git
+[submodule "machine-learning"]
+	path = machine-learning
+	url = https://github.com/EdsonMorroNogueira/machine-learning.git
+[submodule "deep-learning"]
+	path = deep-learning
+	url = https://github.com/EdsonMorroNogueira/deep-learning.git
+[submodule "mlops"]
+	path = mlops
+	url = https://github.com/EdsonMorroNogueira/mlops.git
+[submodule "ai-engineering"]
+	path = ai-engineering
+	url = https://github.com/EdsonMorroNogueira/ai-engineering.git
+[submodule "vibe-coding"]
+	path = vibe-coding
+	url = https://github.com/EdsonMorroNogueira/vibe-coding.git
